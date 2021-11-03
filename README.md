@@ -2,7 +2,7 @@ This code is used to demostrate the implementation of DevOps using Azure DevOps 
 
 API URL :- SERVER:5000/hello
 
-Sample Output :- Hello XXXXXXXXXX, Current time is 30-06-2020 01:01:01
+Sample Output :- Hello XXXXXXXXXX, 
 
 
  Azure Marketplace TerraformCLI plugins:-
@@ -13,7 +13,3 @@ Terraform 2 (https://marketplace.visualstudio.com/items?itemName=charleszipp.azu
 
 
 Detail implementation is given in following video:-
-
-https://youtu.be/U5Ti0LjxvLE
-
-https://youtu.be/e0kSNSN6idE
